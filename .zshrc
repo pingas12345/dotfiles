@@ -1,4 +1,4 @@
-#Peter's Zoomer Shell!!!!!!1111
+#die Zoomer Shell!!!!!!1111
 
 # Lang Stuff?
 LC_ALL=en_AU.UTF-8
